@@ -1,0 +1,7 @@
+G:\Xamarin\NanoJpegConsole\NanoJpegConsole\bin\Debug\NanoJpegConsole.exe.config
+G:\Xamarin\NanoJpegConsole\NanoJpegConsole\bin\Debug\NanoJpegConsole.exe
+G:\Xamarin\NanoJpegConsole\NanoJpegConsole\bin\Debug\NanoJpegConsole.pdb
+G:\Xamarin\NanoJpegConsole\NanoJpegConsole\obj\Debug\NanoJpegConsole.csprojAssemblyReference.cache
+G:\Xamarin\NanoJpegConsole\NanoJpegConsole\obj\Debug\NanoJpegConsole.csproj.CoreCompileInputs.cache
+G:\Xamarin\NanoJpegConsole\NanoJpegConsole\obj\Debug\NanoJpegConsole.exe
+G:\Xamarin\NanoJpegConsole\NanoJpegConsole\obj\Debug\NanoJpegConsole.pdb
